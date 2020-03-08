@@ -1,4 +1,4 @@
-package me.etblaky.rockets.Utils;
+package me.etblaky.Utils;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

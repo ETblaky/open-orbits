@@ -1,6 +1,6 @@
-package me.etblaky.rockets.Utils;
+package me.etblaky.Utils;
 
-import me.etblaky.rockets.Orbit;
+import me.etblaky.Orbit;
 
 public class Util {
 

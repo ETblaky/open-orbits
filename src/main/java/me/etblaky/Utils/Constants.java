@@ -1,4 +1,4 @@
-package me.etblaky.rockets.Utils;
+package me.etblaky.Utils;
 
 public class Constants {
 

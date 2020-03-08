@@ -2,7 +2,7 @@
 <nifty>
     <useStyles filename="nifty-default-styles.xml"/>
     <useControls filename="nifty-default-controls.xml"/>
-    <screen id="start" controller="me.etblaky.rockets.Renderer.GuiController">
+    <screen id="start" controller="me.etblaky.Renderer.GuiController">
         <layer id="layer" backgroundColor="#0000" childLayout="center">
 
             <panel id="panel_bottom" width="100%" height="5%" childLayout="horizontal" valign="bottom">

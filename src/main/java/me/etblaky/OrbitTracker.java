@@ -1,8 +1,8 @@
-package me.etblaky.rockets;
+package me.etblaky;
 
-import me.etblaky.rockets.Utils.Date;
-import me.etblaky.rockets.Utils.Util;
-import me.etblaky.rockets.Utils.Vector3;
+import me.etblaky.Utils.Util;
+import me.etblaky.Utils.Vector3;
+import me.etblaky.Utils.Date;
 
 public class OrbitTracker {
 

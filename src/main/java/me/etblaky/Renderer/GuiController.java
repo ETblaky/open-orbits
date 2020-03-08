@@ -1,4 +1,4 @@
-package me.etblaky.rockets.Renderer;
+package me.etblaky.Renderer;
 
 import com.jme3.app.Application;
 import com.jme3.app.state.BaseAppState;
@@ -8,8 +8,8 @@ import de.lessvoid.nifty.controls.DropDown;
 import de.lessvoid.nifty.controls.Slider;
 import de.lessvoid.nifty.screen.Screen;
 import de.lessvoid.nifty.screen.ScreenController;
-import me.etblaky.rockets.Main;
-import me.etblaky.rockets.Utils.Date;
+import me.etblaky.Main;
+import me.etblaky.Utils.Date;
 
 import java.util.Calendar;
 

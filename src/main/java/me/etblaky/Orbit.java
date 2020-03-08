@@ -1,6 +1,6 @@
-package me.etblaky.rockets;
+package me.etblaky;
 
-import me.etblaky.rockets.Utils.*;
+import me.etblaky.Utils.*;
 
 import static java.lang.Math.*;
 

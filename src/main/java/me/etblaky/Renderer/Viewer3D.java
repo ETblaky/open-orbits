@@ -1,4 +1,4 @@
-package me.etblaky.rockets.Renderer;
+package me.etblaky.Renderer;
 
 import com.jme3.app.SimpleApplication;
 import com.jme3.light.AmbientLight;
@@ -15,9 +15,12 @@ import com.jme3.scene.shape.Sphere;
 import com.jme3.system.AppSettings;
 import com.jme3.util.TangentBinormalGenerator;
 import de.lessvoid.nifty.Nifty;
-import me.etblaky.rockets.Orbit;
-import me.etblaky.rockets.OrbitTracker;
-import me.etblaky.rockets.Utils.*;
+import me.etblaky.Orbit;
+import me.etblaky.OrbitTracker;
+import me.etblaky.Utils.Constants;
+import me.etblaky.Utils.Date;
+import me.etblaky.Utils.Util;
+import me.etblaky.Utils.Vector3;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

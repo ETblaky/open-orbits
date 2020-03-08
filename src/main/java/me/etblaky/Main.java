@@ -1,7 +1,7 @@
-package me.etblaky.rockets;
+package me.etblaky;
 
-import me.etblaky.rockets.Renderer.Viewer3D;
-import me.etblaky.rockets.Utils.*;
+import me.etblaky.Renderer.Viewer3D;
+import me.etblaky.Utils.*;
 
 public class Main {
 
