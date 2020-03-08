@@ -1,6 +1,6 @@
 # Open Orbits
 
-#####The current version does not support Java 11.
+##### The current version does not support Java 11.
 
 ##### Run with:
 > java -jar OpenOrbits.jar
